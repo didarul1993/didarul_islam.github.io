@@ -1,0 +1,11 @@
+---
+title: "A Decision Rule and Machine Learning-Based Hybrid Approach for Automated Land-Cover Type Local Climate Zones (LCZs) Mapping using Multi-Source Remote Sensing Data"
+collection: publications
+permalink: /publication/2024-05-01-LULC_mapping
+excerpt: ''
+date: 2024-05-01
+venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
+paperurl: 'https://ieeexplore.ieee.org/document/10494866'
+citation: 'Islam, M.D., Di, L., Zhang, C., Yang, R., Qu, J., Tong, D., Guo, L., Lin, L., Pandey, A. (2024). &quot;A Decision Rule and Machine Learning-Based Hybrid Approach for Automated Land-Cover Type Local Climate Zones (LCZs) Mapping using Multi-Source Remote Sensing Data.&quot; <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>.vol. 17, pp. 8271-8290, 2024'
+---
+This article presents a streamlined, automated classification method to map land-cover-type local climate zones (LCZs). Using a two-phase hybrid approach, we first generated training samples through universal decision rules and subsequently, a machine learning (ML) algorithm was trained on the generated samples to classify LCZs. The proposed model harnesses plant height data, combined with spectral bands and remote sensing indices, to accurately classify various land-cover types, such as dense forest, scattered trees, bush/scrub, low plant/agricultural land, bare rocks/paved surface and bare soil/sands. Targeting global applicability, we tested our method across six diverse locations spanning four continents: Fresno (California), Central Michigan, Western Phoenix (Arizona), Khulna (Bangladesh), Lagos (Nigeria), and Western Sydney. In each location, after generating training samples with the decision rules, a random forest algorithm was employed for LCZ classification. Results showcase that data from sentinels 1 and 2, night-time light, and global ecosystem dynamics investigation relative height are effective in characterizing land-cover-type LCZs and decision-rules can be established. The decision-rules consistently auto-generate training samples, undeterred by varying geographical and climatic conditions. This automated system has achieved promising accuracy across all tested sites, suggesting its potential to map land-cover-type LCZs and vegetation globally with higher accuracy.
